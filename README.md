@@ -1,6 +1,7 @@
 # 🚀 128Pi
 
 CA Pump.fun : 5Dx6tDEQqSLNr8FDWP8uqQfkAnApypX9ULFngX59pump
+Link lock : https://app.streamflow.finance/contract/solana/mainnet/8mgDxhaQwzp8uqJjQGWpdNYjM1ADsobJhPt7DbSWzxAe
 
 **Building decentralized precision with 128Pi.**
 Data, logic, and innovation aligned for the future of Web3.
