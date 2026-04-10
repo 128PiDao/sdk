@@ -1,5 +1,7 @@
 # 🚀 128Pi
 
+CA Pump.fun : 5Dx6tDEQqSLNr8FDWP8uqQfkAnApypX9ULFngX59pump
+
 **Building decentralized precision with 128Pi.**
 Data, logic, and innovation aligned for the future of Web3.
 
